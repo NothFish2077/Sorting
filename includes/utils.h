@@ -3,5 +3,7 @@
 
 void swap(int* a, int* b);
 
+void print_array(int arr[], int length);
+
 #endif // !UTILS_H
 
